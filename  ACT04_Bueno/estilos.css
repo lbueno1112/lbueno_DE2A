@@ -1,0 +1,105 @@
+body {
+  background-color: black;
+}
+
+#contenedor {
+  background-color: black;
+  background-image: url(fondo.gif);
+  background-size: contain;
+  background-repeat: no-repeat;
+
+ }
+.cuadra {
+  height: 350px;
+  width: 350px;
+  background-color: #B2DFDB;
+  margin: 10px;
+  font-size: 50px;
+  text-align: center;
+  line-height: 350px;
+  border: 3px solid orange;
+  border-radius: 25px;
+  color: orange;
+  align-items: center;
+
+}
+
+#div1 {
+  background-color: salmon;
+  background-image: url(foto1.jpg);
+  background-size: contain;
+
+}
+#div1:hover {
+  background-color: salmon;
+  background-image: url(foto6.jpg);
+  background-size: contain;
+
+}
+#div2 {
+  background-color: lightblue;
+  border: 5px solid orange;
+  background-image: url(foto2.jpg);
+  background-size: cover;
+
+  }
+  #div2:hover {
+    background-color: lightblue;
+    border: 5px solid orange;
+    background-image: url(foto5.jpg);
+    background-size: cover;
+
+    }
+
+#div3 {
+  background-color: #F8BBD0;
+    border: 5px solid navy;
+    background-image: url(foto3.jpg);
+    background-size: cover;
+
+     }
+#div3:hover {
+      background-color: #F8BBD0;
+        border: 5px solid navy;
+        background-image: url(foto12.jpg);
+        background-size: cover;
+}
+
+#div4 {
+  background-color: #A5D6A7;
+  background-image: url(foto4.jpg);
+  background-size: cover;
+
+}
+#div4:hover {
+  background-color: #A5D6A7;
+  background-image: url(foto11.jpg);
+  background-size: cover;
+
+}
+
+#div5 {
+  background-color: #A5D6A7;
+  background-image: url(foto5.jpg);
+  background-size: cover;
+
+}
+#div5:hover {
+  background-color: #A5D6A7;
+  background-image: url(foto9.jpg);
+  background-size: cover;
+
+}
+
+#div6 {
+  background-color: #A5D6A7;
+  background-image: url(foto6.jpg);
+  background-size: cover;
+
+}
+#div6:hover{
+  background-color: #A5D6A7;
+  background-image: url(foto10.jpg);
+  background-size: cover;
+
+}

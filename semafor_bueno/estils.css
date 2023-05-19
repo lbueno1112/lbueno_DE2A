@@ -1,0 +1,78 @@
+body{
+    background-color: rgb(98, 208, 245);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding top:0;
+    
+}
+
+#contenedor{
+    margin: 0 auto;
+    width: 200px;
+    height: 365px;
+    background-color: #1f2124;
+    border-radius: 50px;
+    display: flex;
+    flex-direction: column;
+ 
+}
+
+
+
+.circulos{
+   
+    margin: auto;
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    margin-top: 10px;
+}
+
+#rojo{
+    background-color: rgb(55, 7, 7);
+    border: 6px solid rgba(188, 14, 14, 0.941);
+}
+
+#amarillo{
+    background-color: rgb(71, 71, 8);
+    border: 6px solid rgb(184, 184, 20);
+}
+
+#verde{
+    background-color: rgb(9, 40, 9);
+    border: 6px solid rgb(6, 88, 6);
+}
+
+ 
+@media only screen and  (max-width: 750px){
+    #rojo{
+        background-color: red;
+    }
+}
+    
+ 
+@media only screen and (min-width: 751px) and (max-width:950px){
+    #amarillo{
+    background-color: yellow;
+    }
+}
+
+@media only screen and  (min-width: 951px){
+    #verde{
+        background-color: rgb(22, 210, 22);
+    }
+}
+    
+
+#palo{
+background-color: #1f2124;    
+margin: 0 auto;
+width: 50px;
+height: 200px;
+
+
+
+    
+}
+    
