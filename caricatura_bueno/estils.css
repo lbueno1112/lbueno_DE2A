@@ -1,0 +1,354 @@
+body{
+background-color: #F0E9E7;
+}
+#contenedor{
+margin: 0 auto;
+height: 600px;
+width: 500px;
+position: relative;
+top: -1855px;
+
+}
+
+#pelo {
+margin: 0 auto;
+height: 700px;
+width: 500px;
+
+}
+
+
+
+
+#pelo1{
+background-color: #CBAB7A;
+height: 172px;
+width: 342px;
+border-radius: 50% 50% 50% 50% / 62% 59% 41% 38%;
+transform: rotate(30deg);
+position: relative;
+left: 213px;
+top: -592px;
+z-index: 2;
+
+
+}
+
+#pelo2{
+background-color: #CBAB7A;
+height: 174px;
+width: 317px;
+border-radius: 50% 50% 50% 50% / 62% 59% 41% 38%;
+transform: rotate(-30deg);
+position: relative;
+top: -770px;
+right: 32px;
+z-index: 2;
+
+}
+
+#pelo3{
+background-color: #CBAB7A;
+margin: 0 auto;
+height: 375px;
+width: 375px;
+border-radius: 100%;
+position: relative;
+right: 84px;
+top: -624px;
+}
+
+#pelo4{
+background-color: #CBAB7A;
+margin: 0 auto;
+height: 375px;
+width: 375px;
+border-radius: 100%;
+position: relative;
+left: 89px;
+top: -1001px;
+}
+
+#pelo5{
+background-color: #CBAB7A;
+height: 500px;
+width: 554px;
+border-radius: 2%;
+margin: 0 auto;
+position: relative;
+top: -1204px;
+left: 6px;
+
+}
+
+
+#cara{
+height: 600px;
+width: 500px;
+background-color: #F8CDB0;
+clip-path: ellipse(45% 48% at 52% 48%);
+
+}
+
+
+.ojos{
+width: 110px;
+height: 110px;
+background-color: white;
+position: absolute;
+transform: translate(-50%, -50%) rotate(45deg);
+border-radius: 75% 0;
+
+
+
+}
+
+#ojo1{
+background-color: white;
+position: relative;
+top: -795px;
+left: 135px;
+}
+
+#ojo2{
+background-color: white;
+position: relative;
+top: -1013px;
+left: 379px;
+}
+
+.iris{
+width: 90px;
+height: 90px;
+background-color: #936037;
+border-radius: 100%;
+float: left;
+
+}
+
+#iris1 {
+background-color: #936037;
+top: 10px;
+position: relative;
+left: 9px;
+
+}
+
+#iris2 {
+top: 9px;
+position: relative;
+left: 11px;
+
+}
+
+.pupila{
+width: 50px;
+height: 50px;
+background-color: black;
+border-radius: 100%;
+
+}
+
+#pupila1{
+top: 31px;
+left: 29px;
+position: relative;
+}
+
+#pupila2{
+top: 29px;
+left: 31px;
+position: relative;
+}
+
+.bolita{
+width: 20px;
+height: 20px;
+background-color: white;
+border-radius: 100%;
+
+}
+
+#bolita1{
+top: 0px;
+left: 20px;
+position: relative;
+
+}
+
+#bolita2{
+top: 0px;
+left: 20px;
+position: relative;
+
+}
+.eyeliner{
+width: 110px;
+height: 110px;
+background-color: black;
+position: absolute;
+transform: translate(-50%, -50%) rotate(45deg);
+border-radius: 75% 0;
+
+}
+
+#eyeliner1{
+background-color: black;
+position: relative;
+top: -689px;
+left: 131px;
+
+}
+
+#eyeliner2{
+background-color: black;
+position: relative;
+top: -907px;
+left: 383px;
+
+}
+
+
+#Capa_1{
+width: 169px;
+height: 196px;
+margin-top: -1280px;
+right: 35px;
+position: absolute;
+z-index: 1;
+width: 183px;
+
+
+}
+
+#Capa_2{
+width: 179px;
+height: 196px;
+margin-top: -1281px;
+right: 277px;
+position: absolute;
+z-index: 1;
+transform: scaleX(-1);
+}
+
+
+#nariz{
+width: 64px;
+height: 50px;
+background: rgb(248,205,176);
+background: linear-gradient(180deg, rgba(248,205,176,0.9612438725490196) 69%, rgba(125,78,36,0.7819721638655462) 100%);
+position: absolute;
+top: 356px;
+left: 225px;
+clip-path: ellipse(32% 37% at 50% 50%);
+}
+
+
+.lineas{
+width: 12px;
+height: 30px;
+border-radius: 30%;
+}
+
+#linea1{
+top: 340px;
+left: 271px;
+position: absolute;
+opacity: 10%;
+border-left: 2px solid #895A37;
+}
+
+
+#linea2{
+top: 340px;
+left: 232px;
+position: absolute;
+opacity: 10%;
+border-left: 2px solid #895A37;
+transform: scaleX(-1);
+
+}
+
+.boca{
+background-color: #C58E76;
+}
+
+
+#cuadroboca{
+width: 172px;
+height: 50px;
+background-color: #F8CDB0;
+top: 437px;
+left: 176px;
+position: absolute;
+
+
+}
+
+
+#bocadebajo{
+width: 104px;
+height: 104px;
+position: absolute;
+transform: translate(-50%, -50%) rotate(45deg);
+border-radius: 75% 0;
+top: 487px;
+left: 260px;
+position: absolute;
+border-left: 0px;
+
+
+}
+
+#boca1{
+height: 57px;
+width: 57px;
+position: absolute;
+top: 487px;
+left: 227px;
+position: absolute;
+transform: translate(-50%, -50%) rotate(45deg);
+border-radius: 75% 0;
+}
+
+#boca2{
+height: 63px;
+width: 61px;
+position: absolute;
+top: 488px;
+left: 289px;
+position: absolute;
+transform: translate(-50%, -50%) rotate(45deg);
+border-radius: 75% 0;
+}
+
+#lineaboca{
+clip-path: ellipse(49% 1% at 49% 43%);
+background-color: #B27B68;
+top: 358px;
+left: 188px;
+position: absolute;
+width: 147px;
+height: 301px;
+
+}
+
+#cuello{
+width: 173px;
+height: 129px;
+background-color: #F8CDB0;
+top: 540px;
+left: 175px;
+position: absolute;
+
+}
+
+#formapelo{
+clip-path: ellipse(50% 15% at 48% 43%);
+height: 600px;
+width: 1000px;
+background-color: #F0E9E7;
+top: 454px;
+left: -219px;
+position: absolute;
+}
