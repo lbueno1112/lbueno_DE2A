@@ -1,0 +1,195 @@
+body{
+    background-color:#4d5645 ;
+
+
+   
+}
+ h1{
+    font-family: 'GFS Didot', serif;
+    font-size: 60px;
+    font-weight: 50;
+    text-align: center;
+    color: white;
+    margin: 0 auto;
+    margin-top: 250px;
+    
+ }
+
+ h2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+    font-weight: 500;
+    font-size: 25px;
+}
+
+.redonda{
+
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 2px solid white;
+    position: relative;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.linea{
+    width: 2px;
+    height: 100px; 
+    background-color: white; 
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.flecha{
+    width: 0;
+    height: 0;
+    align-items: center;
+    margin: 0 auto;
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+    border-top: 15px solid white;
+}
+
+#contenedor{
+    width: 900px;
+    height: 1600px;
+    background-color: blue;
+    margin: 0 auto;
+    margin-top: 300px;
+}
+
+.cuadradito{
+    width: 350px;
+    height: 350px;
+    float: left;
+    margin-left: 66px;
+    margin-top: 40px;
+}
+
+#cuadro1{
+    background-color: blueviolet;
+    background-image: url(imagenes/web.jpg);
+     width: 350px;
+    height: 350px;
+    display: flex;
+    justify-content:center;
+    background-repeat: no-repeat;
+    contain: content;
+    background-size: cover;
+    align-items: center;
+    background-position: center;
+
+
+    
+}
+
+#cuadro2{
+    background-color: blueviolet;
+}
+
+h3{ font-family: 'GFS Didot', serif;
+    font-size: 20px;
+    font-weight: 50;
+    text-align: center;
+    color: white;
+    margin: 0 auto;
+    margin-top: 330px;
+    position: absolute;
+    
+}
+h4{
+    font-family: 'GFS Didot', serif;
+    font-size: 20px;
+    font-weight: 50;
+    text-align: center;
+    color: white;
+    margin: 0 auto;
+    margin-top: 330px;
+    position: absolute;
+
+}
+h5{
+    font-family: 'GFS Didot', serif;
+    font-size: 20px;
+    font-weight: 50;
+    text-align: center;
+    color: white;
+    margin: 0 auto;
+    margin-top: 330px;
+    position: absolute;
+
+}
+h6{
+    font-family: 'GFS Didot', serif;
+    font-size: 20px;
+    font-weight: 50;
+    text-align: center;
+    color: white;
+    margin: 0 auto;
+    margin-top: 330px;
+    position: absolute;
+
+}
+#cuadro3{
+    background-color: lawngreen;
+}
+
+#cuadro4{
+    background-color: lawngreen;
+    background-image: url(imagenes/DIV.JPG);
+    width: 350px;
+   height: 350px;
+   display: flex;
+   justify-content:center;
+   background-repeat: no-repeat;
+   contain: content;
+   background-size: cover;
+   align-items: center;
+   background-position: center;
+    
+}
+#cuadro5{
+    background-color: magenta;
+    background-color: lawngreen;
+    background-image: url(imagenes/caricatura.jpg);
+    width: 350px;
+   height: 350px;
+   display: flex;
+   justify-content:center;
+   background-repeat: no-repeat;
+   contain: content;
+   background-size: cover;
+   align-items: center;
+   background-position: center;
+}
+
+#cuadro6{
+    background-color: magenta;
+    
+}
+#cuadro7{
+    background-color: orange;
+
+}
+
+#cuadro8{
+ 
+background-color: orange;
+background-color: lawngreen;
+background-image: url(imagenes/SEMAFORO.JPG);
+width: 350px;
+height: 350px;
+display: flex;
+justify-content:center;
+background-repeat: no-repeat;
+contain: content;
+background-size: cover;
+align-items: center;
+background-position: center;
+    
+}
+
+
