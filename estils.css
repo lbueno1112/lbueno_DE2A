@@ -56,7 +56,7 @@ body{
 #contenedor{
     width: 900px;
     height: 1600px;
-    background-color: blue;
+  
     margin: 0 auto;
     margin-top: 300px;
 }
@@ -70,7 +70,7 @@ body{
 }
 
 #cuadro1{
-    background-color: blueviolet;
+   
     background-image: url(imagenes/web.jpg);
      width: 350px;
     height: 350px;
@@ -87,7 +87,7 @@ body{
 }
 
 #cuadro2{
-    background-color: blueviolet;
+  
 }
 
 h3{ font-family: 'GFS Didot', serif;
@@ -134,11 +134,10 @@ h6{
 
 }
 #cuadro3{
-    background-color: lawngreen;
 }
 
 #cuadro4{
-    background-color: lawngreen;
+   
     background-image: url(imagenes/DIV.JPG);
     width: 350px;
    height: 350px;
@@ -152,8 +151,7 @@ h6{
     
 }
 #cuadro5{
-    background-color: magenta;
-    background-color: lawngreen;
+   
     background-image: url(imagenes/caricatura.jpg);
     width: 350px;
    height: 350px;
@@ -167,18 +165,17 @@ h6{
 }
 
 #cuadro6{
-    background-color: magenta;
+    
     
 }
 #cuadro7{
-    background-color: orange;
+  
 
 }
 
 #cuadro8{
  
-background-color: orange;
-background-color: lawngreen;
+
 background-image: url(imagenes/SEMAFORO.JPG);
 width: 350px;
 height: 350px;
